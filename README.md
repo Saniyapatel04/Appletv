@@ -1,11 +1,10 @@
 ## Apple TV+ Clone 
 ---
 <p>
-Goal behind the project was to create a clone of the Flipkrt website as close as possible to the original one with all the major functionalities of this website, such as User Authentication, User Details Management, Series & Shows gallery and carousels and Show Details.
-This project was built by a team of 6 developers in 5 Days. 
+Goal behind the project was to create a clone of the Apple TV website as close as possible to the original one with respect to User interface and User experience.
 </p>
 
-* [Click Here](https://nameh-dhiman.github.io/Apple-TV-Clone-Project.github.io/ "Apple TV+ Project") to view the deployed website.
+* [Click Here](https://appletv-clone.netlify.app) to view the deployed website.
 
 <p>
 Apple TV+ is an American subscription streaming service owned and operated by Apple Inc. 
@@ -49,12 +48,3 @@ ___
 <br/>
 ![screehshot5](https://miro.medium.com/max/1400/1*dmhtDQUIFpL1DIgltAejNw.png)
 
-
-### Team
-___
-* Nameh Dhiman
-* Nandkishor Dumare
-* Ankur Sharma
-* Shreenath Panchal
-* Ramya Shree
-* Sharukh Khan
