@@ -38,7 +38,9 @@ ___
 
 ### Screenshots
 ___
-![screehshot](![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/159aa49b-6e36-4eeb-ba8e-6df7c0c0d63d)
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/d19089dd-d6d5-4a9e-b445-05cb582978f6)
+
+![screehshot](https://miro.medium.com/max/1400/1*wK5BmC0OQ3QbKO99WtyGMA.png)
 )
 <br/>
 ![screehshot2](https://miro.medium.com/max/1400/1*qLl3hJqByc5GxZeNlfjkYA.png)
