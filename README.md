@@ -39,15 +39,16 @@ ___
 ### Screenshots
 ___
 ![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/d19089dd-d6d5-4a9e-b445-05cb582978f6)
-
-![screehshot](https://miro.medium.com/max/1400/1*wK5BmC0OQ3QbKO99WtyGMA.png)
-)
 <br/>
-![screehshot2](https://miro.medium.com/max/1400/1*qLl3hJqByc5GxZeNlfjkYA.png)
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/dfce296b-cac1-4f61-bee6-e4880a0a5f48)
 <br/>
-![screehshot3](https://miro.medium.com/max/1400/1*B9g_iLTXAa9rNuf1m81ddQ.png)
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/c141c08b-484c-438b-aa76-99a35b2338a9)
 <br/>
-![screehshot4](https://miro.medium.com/max/1400/1*MM_U6uJOdSeYO2M5X3K47Q.png)
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/b93f5dd0-4a6e-49a9-a9db-75b2f1caf5dd)
 <br/>
-![screehshot5](https://miro.medium.com/max/1400/1*dmhtDQUIFpL1DIgltAejNw.png)
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/8a014608-81c4-4142-8953-fb3fc64ffee1)
+<br/>
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/24838bef-fb59-467a-8006-6a20233cf554)
+<br/>
+![image](https://github.com/Saniyapatel04/Appletv/assets/113912710/53b602ae-b454-4d25-aad1-93a0ec848690)
 
